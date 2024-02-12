@@ -1,6 +1,15 @@
 ### Hi there 👋
 # 💫 About Me:
-Hi there I'm Srivardhan<br><br>Engineer, Researcher, and content Creator<br><br><br>Seasoned engineer and consultant in the Kubernetes space who spends his time working with startups and enterprises around the globe on Kubernetes and cloud-native projects. He also performs technical research, creates real-world, project-focused content.<br><br>I’m currently working on all things consulting, writing, and content around Kubernetes<br>💬 Ask me about Kubernetes, cloud-native, DevOps, content creation, public speaking, and collaborating with the world!<br>📫 How to reach me: email:srivardhantumanapally@gmail.com <br>😄 Home Base: https://srivardhan-t.hashnode.dev/
+Hi there I'm Srivardhan<br><br>Engineer, Researcher, and content Creator<br><br><br>What I Do: <br>
+<br>
+
+##DevOps Engineering: I specialize in building robust DevOps pipelines to automate deployments, enhance scalability, and improve reliability.
+
+##Kubernetes Enthusiast:
+I'm deeply involved in Kubernetes orchestration, managing containerized applications, and optimizing infrastructure for cloud-native environments.
+
+##System Administration: 
+I am passionate about ensuring smooth operations, security, and performance of IT systems.<br><br>I’m currently working on all things consulting, writing, and content around Kubernetes<br>💬 Ask me about Kubernetes, cloud-native, DevOps, content creation, and collaborating with the world!<br>📫 How to reach me: email:srivardhantumanapally@gmail.com <br>😄 Home Base: https://srivardhan-t.hashnode.dev/
 
 
 ## 🌐 Socials:
